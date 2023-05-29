@@ -1,7 +1,7 @@
 # capstone-Project-
 fashion recommendation system
 
-#Week 1 Proposed Project Ideas
+#Week 1 Proposed Project Ideas/n
 #Fashion Recommendation system - Assistant
 #Automatic Number Plate Recognition
 #Social media crisis management 
