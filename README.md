@@ -4,7 +4,7 @@ Week 1 Proposed Project Ideas
 
 Fashion Recommendation system - Assistant
 Automatic Number Plate Recognition
-Social media crisis management
+Social media crisis management 
 Week 2
 
 Finalized Recommended Fashion Recommendaion System
